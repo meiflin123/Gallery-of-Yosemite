@@ -4,13 +4,16 @@ body {
 
 .jumbotron {
   color: #264d00;
-  background-color: #ecf0f1;
+  background: #ecf0f1;
 }
 
 .navbar {
   background:#00331a;
 }
 
-a {
+/*.navbar-inverse .navbar-nav>li>a {
   color: white;
 }
+.navbar-inverse .navbar-brand {
+  color: white;
+}*/
